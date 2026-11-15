@@ -23,4 +23,4 @@ Me interesa la automatización de edificios: integración, visualización y moni
 
 ### 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/tu-perfil) · Abierto a ofertas de integración KNX y automatización de edificios
+[LinkedIn](https://www.linkedin.com/in/juan-david-ocampo-riquet-53492823a/) · Abierto a ofertas de integración KNX y automatización de edificios
