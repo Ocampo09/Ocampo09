@@ -8,9 +8,9 @@ Me interesa la automatización de edificios: integración, visualización y moni
 
 ### 🔧 Con qué trabajo
 
-**Domótica:** KNX · ETS Professional · KNXnet/IP · KNX Virtual
-**Desarrollo:** Python · JavaScript · PHP · HTML · CSS · MySQL · FastAPI
-**Herramientas:** Git · GitHub · VS Code
+- **Domótica:** KNX · ETS Professional · KNXnet/IP · KNX Virtual
+- **Desarrollo:** Python · JavaScript · PHP · HTML · CSS · MySQL · FastAPI
+- **Herramientas:** Git · GitHub · VS Code
 
 ### 📌 Proyectos destacados
 
